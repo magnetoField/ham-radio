@@ -12,7 +12,8 @@ Pierwsze spotkanie __22.01.(20+25)<sup>2</sup>__ r.
 al. Wojska Polskiego 41\
 80-268 Gdańsk
 #### Kontakt
-![Discord ](https://dcbadge.limes.pink/api/shield/1281551181721899099)
+[![Magneto Field (1281551181721899099)](https://img.shields.io/badge/Magneto-Field-%235865F2.svg)](https://discord.com/users/1281551181721899099)\
+__SQ2SQN 73__
 ![Plakat](Ham_radio.png)
 
 
