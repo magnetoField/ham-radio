@@ -6,8 +6,8 @@ Zdobądź świadectwo operatora urządzeń radiowych, które otworzy Ci drogę d
 *	Łączności fonicznej z drugą stroną kuli ziemskiej
 *	Łączności z wykorzystaniem satelit okołoziemskich
 
-Spotkania w __HS3__ w każdą __środę o 20:15__.\
-Pierwsze spotkanie __22.01.(20+25)<sup>2</sup>__ r.
+Spotkania w __HS3__ w każdą __środę o 20:00__.\
+Pierwsze spotkanie __5. lutego (20+25)<sup>2</sup>__ roku.
 ### Adress HS3
 al. Wojska Polskiego 41\
 80-268 Gdańsk
