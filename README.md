@@ -1,4 +1,7 @@
 # DARMOWY KURS KRÓTKOFALARSKI
+## Nagrania z naszych spotkań:
+[Spotkanie I - Intro do krótkofalarstwa](https://drive.google.com/file/d/16xUQpBV7sIa6_JQt2jM79KEU83scisvW/view?usp=sharing)
+## Zaproszenie
 Zdobądź świadectwo operatora urządzeń radiowych, które otworzy Ci drogę do:
 *	Prowadzenia łączności EME (Earth-Moon-Earth)
 *	Łączności UKF z falą odbitą od meteorytów
