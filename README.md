@@ -1,8 +1,8 @@
 # DARMOWY KURS KRÓTKOFALARSKI
 ## Nagrania z naszych spotkań:
-[Spotkanie I - Intro do krótkofalarstwa](https://drive.google.com/file/d/16xUQpBV7sIa6_JQt2jM79KEU83scisvW/view?usp=sharing)
+[Spotkanie I - Intro do krótkofalarstwa](https://www.youtube.com/watch?v=U8DDvWzYUmg)
 
-[Spotkanie II - Rezystancja i Impedancja](https://drive.google.com/file/d/1q7iwIwjmFKtnps5DyB7HExsDbv9h_cJ_/view?usp=sharing)
+[Spotkanie II - Rezystancja i Impedancja](https://www.youtube.com/watch?v=0uvwHRL_vDw)
 ## Zaproszenie
 Zdobądź świadectwo operatora urządzeń radiowych, które otworzy Ci drogę do:
 *	Prowadzenia łączności EME (Earth-Moon-Earth)
