@@ -3,6 +3,8 @@
 [Spotkanie I - Intro do krótkofalarstwa](https://www.youtube.com/watch?v=U8DDvWzYUmg)
 
 [Spotkanie II - Rezystancja i Impedancja](https://www.youtube.com/watch?v=0uvwHRL_vDw)
+
+[Spotkanie III - Modulacja i Detekcja](https://www.youtube.com/watch?v=NcmU-nrxx9w)
 ## Zaproszenie
 Zdobądź świadectwo operatora urządzeń radiowych, które otworzy Ci drogę do:
 *	Prowadzenia łączności EME (Earth-Moon-Earth)
