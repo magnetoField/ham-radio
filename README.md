@@ -33,12 +33,19 @@
 
 [Procedury radiooperatora](https://www.astrouw.edu.pl/~simkoz/SQ5SCY/Etyka_dla_krotkofalowcow.pdf)
 ## Co trzeba nauczyć się na pamięć na egzamin
+
 - Mapa regionalizacji znaków SP w Polsce np. dla osoby z Gdańska będzie to SP2xx.
+  
 ![Mapa znaków w Polsce](https://github.com/user-attachments/assets/278a523e-b3da-4498-9565-dd2f4a003015)
+
 - Zakres częstotliwości dla pasm radioamatorskich
+  
 ![image](https://github.com/user-attachments/assets/b92b7fdb-42dc-4745-ade2-0feda5313a5d)
+
 - Literowanie znaków system międzynarodowy
+  
 ![image](https://github.com/user-attachments/assets/5fe4f1d7-df17-44e6-9088-2d5c0bbc6e0b)
+
 - Kody Q
 
 |KOD |	OPIS|
