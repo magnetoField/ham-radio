@@ -6,6 +6,10 @@
 
 [Spotkanie III - Modulacja i Detekcja](https://www.youtube.com/watch?v=NcmU-nrxx9w)
 
+[Spotkanie IV - Anteny i propagacja](https://youtu.be/tgEy9Uxr7cU?si=dKDC1voRxFYcaT1M)
+
+[Spotkanie V - Układy elektroniczne](https://youtu.be/uJj42wIhvk4?si=iPuIybfhx9GiI5IN)
+
 ## Narzędzia z jakich korzystamy:
 [Symulator obwodów online Falstad](https://www.falstad.com/circuit/circuitjs.html)
 
