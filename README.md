@@ -1,4 +1,9 @@
 # DARMOWY KURS KRÓTKOFALARSKI
+## Nowatorski system do nauki zagadnień na egzamin KF:
+Pod poniższym linkiem możecie sprawdzić swoją wiedzę z zagadnień będących na egzaminie UKE. System wyróżnia się od innych portali tym, że analizuje gdzie mamy słabe strony i zwiększa liczbę pytań ze słabo przyswojonego obszaru.
+
+[testkf.macuk.pl](https://testkf.macuk.pl/)
+
 ## Nagrania z naszych spotkań:
 [Spotkanie I - Intro do krótkofalarstwa](https://www.youtube.com/watch?v=U8DDvWzYUmg)
 
